@@ -1,16 +1,11 @@
-# front_pr
+# Практическая работа №1
 
-A new Flutter project.
+### Тема: Создание экранов при помощи Flutter
+### Цель: Сверстать несколько экранов по макету Figma
 
-## Getting Started
+#### Ход работы:
 
-This project is a starting point for a Flutter application.
+Верстка макета №1
+Самым простым для первой верстки на Flutter оказался 4 макет.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![картинка 1!](https://github.com/F13b/Flutter-pr1/blob/main/photos-for-doc/1.jpg)
