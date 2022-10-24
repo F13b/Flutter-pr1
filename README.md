@@ -39,6 +39,7 @@
 
 Частичка кода для этого экрана:
 
+
 ![кодек 2!](https://github.com/F13b/Flutter-pr1/blob/main/photos-for-doc/code2.jpg)
 
 Рисунок 7 - Код для второго экрана
