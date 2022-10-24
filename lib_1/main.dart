@@ -32,7 +32,7 @@ class Body extends StatelessWidget {
                     color: Colors.amber,
                     borderRadius: BorderRadius.all(
                         Radius.circular(25))),
-                child: Image.asset("assets/pirs.png")),
+                child: Image.asset("assets/port.png")),
           ),
           Padding(
             padding: EdgeInsets.only(top: 30.0), 
